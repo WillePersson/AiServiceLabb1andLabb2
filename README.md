@@ -1,18 +1,18 @@
 # Multi-Function AI Service
 
-This project is a multi-function AI service application that leverages Azure Cognitive Services to perform various tasks. The application currently supports two labs:
+This project is a multi-function AI service application that leverages Azure Cognitive Services to perform various tasks. The application currently supports two labbs:
 
-1. **Lab 1: Language Processing and QnA**
-2. **Lab 2: Image Analysis**
+1. **Labb 1: Language Processing and QnA**
+2. **Labb 2: Image Analysis**
 
 ## Table of Contents
 
-- [Lab 1: Language Processing and QnA](#lab-1-language-processing-and-qna)
+- [Labb 1: Language Processing and QnA](#lab-1-language-processing-and-qna)
   - [Usage](#usage)
-- [Lab 2: Image Analysis](#lab-2-image-analysis)
+- [Labb 2: Image Analysis](#lab-2-image-analysis)
   - [Usage](#usage-1)
 
-## Lab 1: Language Processing and QnA
+## Labb 1: Language Processing and QnA
 
 ### Usage
 
@@ -22,7 +22,7 @@ This project is a multi-function AI service application that leverages Azure Cog
 4. The application will then **query the QnA service** and display the **answer** along with the **confidence score**.
 5. You can choose to ask another question or exit the lab.
 
-## Lab 2: Image Analysis
+## Labb 2: Image Analysis
 
 ### Usage
 
