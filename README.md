@@ -9,4 +9,3 @@ Welcome to the **Apollo Space Program QnA Service**! This application allows use
 - **Multi-language Support**: Ask questions in any language, and receive answers in English.
 - **QnA Maker Integration**: Uses Azure QnA Maker to provide answers to user queries.
 - **Confidence Scoring**: Displays the confidence score of the answer provided by the QnA Maker.
-- **User-Friendly Interface**: Clear console interface with the option to ask multiple questions.
