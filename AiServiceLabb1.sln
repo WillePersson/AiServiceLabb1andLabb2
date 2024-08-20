@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AiServiceLabb1", "AiServiceLabb1.csproj", "{B45A2CBF-236A-49E0-B474-961C43A6E58C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AiServiceLabb1AndLabb2", "AiServiceLabb1AndLabb2.csproj", "{B45A2CBF-236A-49E0-B474-961C43A6E58C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
