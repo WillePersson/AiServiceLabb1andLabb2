@@ -1,11 +1,34 @@
-# AiServiceLabb1
+# Multi-Function AI Service
 
-# Apollo Space Program QnA Service
+This project is a multi-function AI service application that leverages Azure Cognitive Services to perform various tasks. The application currently supports two labbs:
 
-Welcome to the **Apollo Space Program QnA Service**! This application allows users to ask questions related to the Apollo Space Program in any language, and the answers will be provided in English. The service utilizes Azure's Cognitive Services for language detection, translation, and QnA Maker to provide answers based on the user's input.
+1. **Labb 1: Language Processing and QnA**
+2. **Labb 2: Image Analysis**
 
-## Features
+## Table of Contents
 
-- **Multi-language Support**: Ask questions in any language, and receive answers in English.
-- **QnA Maker Integration**: Uses Azure QnA Maker to provide answers to user queries.
-- **Confidence Scoring**: Displays the confidence score of the answer provided by the QnA Maker.
+- [Labb 1: Language Processing and QnA](#lab-1-language-processing-and-qna)
+  - [Usage](#usage)
+- [Labb 2: Image Analysis](#lab-2-image-analysis)
+  - [Usage](#usage-1)
+
+## Labb 1: Language Processing and QnA
+
+### Usage
+
+1. **Start the application** and select "Lab 1: Language Processing and QnA."
+2. **Enter your question** when prompted. The question can be in any supported language.
+3. The application will **detect the language** and **translate** the question if needed.
+4. The application will then **query the QnA service** and display the **answer** along with the **confidence score**.
+5. You can choose to ask another question or exit the lab.
+
+## Labb 2: Image Analysis
+
+### Usage
+
+1. **Start the application** and select "Lab 2: Image Analysis."
+2. **Enter the image file path or URL** when prompted.
+3. **Specify the thumbnail dimensions** (width and height).
+4. The application will **analyze the image** and display detected tags with confidence scores.
+5. The application will then **generate a thumbnail** of the image and save it.
+6. You will be asked if you want to **generate an image with bounding boxes**. If you choose yes, the image will be processed accordingly, and the output will be saved.
