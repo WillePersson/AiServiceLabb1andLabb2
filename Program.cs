@@ -2,9 +2,6 @@
 using AiServiceLabb1AndLabb2.Labb1;
 using AiServiceLabb1AndLabb2.Labb2;
 using Microsoft.Extensions.Configuration;
-using System;
-using System.IO;
-using System.Threading.Tasks;
 
 namespace AiServiceLabb1AndLabb2
 {
@@ -26,8 +23,8 @@ namespace AiServiceLabb1AndLabb2
 				Console.Clear();
 				Console.WriteLine("Welcome to the Multi-Function AI Service!");
 				Console.WriteLine("Please choose an option:");
-				Console.WriteLine("1. Language Processing (Labb 1)");
-				Console.WriteLine("2. Image Analysis (Labb 2)");
+				Console.WriteLine("1. Natural Language Processing och frågetjänster i Azure AI (Labb 1)");
+				Console.WriteLine("2. Bildtjänster i Azure AI (Labb 2)");
 				Console.WriteLine("3. Exit");
 
 				var choice = Console.ReadLine();
